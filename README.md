@@ -25,3 +25,24 @@ A set of studies and examples related to React.
 - [ ] Material UI
 - [ ] Chakra UI
 - [ ] Fluent
+
+## Frameworks
+- [ ] Next JS
+- [ ] Gatsby
+- [ ] Create React App
+
+## Build tools
+- [ ] Vite
+- [ ] Rollup
+- [ ] React Scripts
+- [ ] Craco
+- [ ] Webpack
+- [ ] Parcel
+- [ ] Snowpack
+
+## Other tools
+- [ ] useHooks
+- [ ] Reactsight
+- [ ] Bundle analyzer
+- [ ] Why did you render
+- [ ] Storybook
