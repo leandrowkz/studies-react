@@ -1,7 +1,7 @@
-# React e.g.
+# ⚛️ React e.g.
 A set of studies and examples related to React.
 
-## State management
+## 🔂 State management
 - [ ] Context API
 - [ ] Redux
 - [ ] MobX
@@ -12,13 +12,13 @@ A set of studies and examples related to React.
 - [ ] Nano Stores
 - [ ] Jotai
 
-## Stylization
+## 💅 Stylization
 - [ ] CSS modules
 - [ ] Styled components
 - [ ] Tailwind CSS
 - [ ] Inline style objects
 
-## UI libraries
+## 🎨 UI libraries
 - [ ] Shadcn UI
 - [ ] Ant Design
 - [ ] Flowbite
@@ -26,12 +26,12 @@ A set of studies and examples related to React.
 - [ ] Chakra UI
 - [ ] Fluent
 
-## Frameworks
+## 📦 Frameworks
 - [ ] Next JS
 - [ ] Gatsby
 - [ ] Create React App
 
-## Build tools
+## 🤖 Build tools
 - [ ] Vite
 - [ ] Rollup
 - [ ] React Scripts
@@ -40,7 +40,7 @@ A set of studies and examples related to React.
 - [ ] Parcel
 - [ ] Snowpack
 
-## Other tools
+## 💎 Other tools
 - [ ] useHooks
 - [ ] Reactsight
 - [ ] Bundle analyzer
