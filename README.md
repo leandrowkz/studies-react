@@ -1,4 +1,4 @@
-# React
+# React e.g.
 A set of studies and examples related to React.
 
 ## State management
