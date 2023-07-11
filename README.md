@@ -1,4 +1,4 @@
-# ⚛️ React e.g.
+# React e.g.
 A set of studies and examples related to React.
 
 ## 🔂 State management
