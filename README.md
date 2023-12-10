@@ -2,18 +2,18 @@
 A set of studies and examples related to React.
 
 ## 🔂 State management
-- [ ] Context API
+- [x] Context API
 - [ ] Redux
 - [ ] MobX
 - [ ] Akita
 - [ ] Recoil
-- [ ] Zustand
-- [ ] React Query
+- [x] Zustand
+- [x] TanStack React Query
 - [ ] Nano Stores
 - [ ] Jotai
 
 ## 💅 Stylization
-- [ ] CSS modules
+- [x] CSS modules
 - [ ] Styled components
 - [ ] Tailwind CSS
 - [ ] Inline style objects
@@ -25,11 +25,12 @@ A set of studies and examples related to React.
 - [ ] Material UI
 - [ ] Chakra UI
 - [ ] Fluent
+- [x] Mantine
 
 ## 📦 Frameworks
 - [ ] Next JS
 - [ ] Gatsby
-- [ ] Create React App
+- [x] Create React App
 
 ## 🤖 Build tools
 - [ ] Vite
@@ -45,4 +46,4 @@ A set of studies and examples related to React.
 - [ ] Reactsight
 - [ ] Bundle analyzer
 - [ ] Why did you render
-- [ ] Storybook
+- [x] Storybook
