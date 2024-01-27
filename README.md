@@ -1,4 +1,4 @@
-# React
+# ⚛️ React studies
 A set of studies and examples related to React.
 
 ## 🔂 State management
